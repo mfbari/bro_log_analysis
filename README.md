@@ -1,6 +1,4 @@
-## Bro Log Analysis
+# Bro Log Analysis
 
-# Tools
+## Tools
 * [bat](https://github.com/SuperCowPowers/bat/)
-
-
